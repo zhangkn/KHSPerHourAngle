@@ -105,10 +105,6 @@
 				E1137AAA1CCB01B7001D8A3E /* AppDelegate.m */,
 				E1137AAC1CCB01B7001D8A3E /* ViewController.h */,
 				E1137AAD1CCB01B7001D8A3E /* ViewController.m */,
-				E1137AAF1CCB01B7001D8A3E /* Main.storyboard */,
-				E1137AB21CCB01B7001D8A3E /* Assets.xcassets */,
-				E1137AB41CCB01B7001D8A3E /* LaunchScreen.storyboard */,
-				E1137AB71CCB01B7001D8A3E /* Info.plist */,
 				E1137AA61CCB01B7001D8A3E /* Supporting Files */,
 			);
 			path = "20160423-时钟";
@@ -117,6 +113,10 @@
 		E1137AA61CCB01B7001D8A3E /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				E1137AAF1CCB01B7001D8A3E /* Main.storyboard */,
+				E1137AB21CCB01B7001D8A3E /* Assets.xcassets */,
+				E1137AB41CCB01B7001D8A3E /* LaunchScreen.storyboard */,
+				E1137AB71CCB01B7001D8A3E /* Info.plist */,
 				E1137AA71CCB01B7001D8A3E /* main.m */,
 			);
 			name = "Supporting Files";
