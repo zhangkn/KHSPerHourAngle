@@ -207,6 +207,7 @@
 				TargetAttributes = {
 					E1137AA21CCB01B6001D8A3E = {
 						CreatedOnToolsVersion = 7.2.1;
+						DevelopmentTeam = FUV5KWMMAV;
 					};
 					E1137ABB1CCB01B7001D8A3E = {
 						CreatedOnToolsVersion = 7.2.1;
@@ -411,9 +412,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = FUV5KWMMAV;
 				INFOPLIST_FILE = "20160423-时钟/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.hisunpay.www.-0160423---";
+				PRODUCT_BUNDLE_IDENTIFIER = com.cmpay.icloud;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -422,9 +424,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = FUV5KWMMAV;
 				INFOPLIST_FILE = "20160423-时钟/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.hisunpay.www.-0160423---";
+				PRODUCT_BUNDLE_IDENTIFIER = com.cmpay.icloud;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -496,6 +499,7 @@
 				E1137AD21CCB01B7001D8A3E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E1137AD31CCB01B7001D8A3E /* Build configuration list for PBXNativeTarget "20160423-时钟Tests" */ = {
 			isa = XCConfigurationList;
@@ -504,6 +508,7 @@
 				E1137AD51CCB01B7001D8A3E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E1137AD61CCB01B7001D8A3E /* Build configuration list for PBXNativeTarget "20160423-时钟UITests" */ = {
 			isa = XCConfigurationList;
@@ -512,6 +517,7 @@
 				E1137AD81CCB01B7001D8A3E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
